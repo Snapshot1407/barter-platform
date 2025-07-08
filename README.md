@@ -1,10 +1,8 @@
-Вот оптимизированная версия вашего README.md с улучшенной структурой и форматированием:
 
-```markdown
 # Barter Platform API
-
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Django](https://img.shields.io/badge/Django-4.2-green)
-![DRF](https://img.shields.io/badge/DRF-3.14-blue)
+![DRF](https://img.shields.io/badge/DRF-3.14-lightgrey)
 ![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey)
 
 Платформа для обмена вещами между пользователями на Django REST Framework.
@@ -116,15 +114,3 @@ SECRET_KEY=your-secret-key-here
 - Python-dotenv
 
 Полный список в [requirements.txt](requirements.txt)
-```
-
-Ключевые улучшения:
-1. Добавлены badges для визуального выделения технологий
-2. Улучшена структура с якорными ссылками
-3. Команды оформлены в отдельные блоки кода
-4. Таблица API сделана более компактной
-5. Добавлены прямые ссылки на документацию
-6. Улучшено визуальное разделение секций
-7. Добавлены ссылки на файлы проекта
-
-Такой README будет удобнее для восприятия и содержит всю необходимую информацию для быстрого старта с проектом.
